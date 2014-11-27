@@ -1,0 +1,26 @@
+{
+  "name": "numper",
+  "version": "0.0.1",
+  "description": "Collect buckets of counts and emit them periodically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitdivine/numper.git"
+  },
+  "keywords": [
+    "sum",
+    "counts",
+    "intervals",
+    "time",
+    "buckets"
+  ],
+  "author": "Bit Divine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitdivine/numper/issues"
+  },
+  "homepage": "https://github.com/bitdivine/numper"
+}
