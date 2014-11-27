@@ -1,6 +1,6 @@
 {
   "name": "numper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Collect buckets of counts and emit them periodically.",
   "main": "index.js",
   "scripts": {

@@ -1,7 +1,7 @@
 numper
 ======
 
-Add up counts and emit the buckets periodically.
+Add up counts and emit the buckets periodically.  Super simple.
 
     var Numper = require('./index.js')
       , numper = new Numper({interval: 1000}); // Emit counts once per second
